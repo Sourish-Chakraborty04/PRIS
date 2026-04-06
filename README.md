@@ -1,17 +1,38 @@
-# pris_personal_resource_intellisense
+# PRIS - Personal Records & Information System 🚀
 
-PRIS is not your regular expense tracker. It tracks your work hours gives a projected salary view, has OCR for fast entry, also a manual way, keeps an eye on your bike's fuel tank and reminds you when you have to refuel it again
+PRIS is a comprehensive **Personal Finance & Shift Tracking** application built with Flutter. It is designed for individuals who need to manage their daily work shifts alongside their expenses, providing a unified view of income and spending.
 
-## Getting Started
+## 🌟 Key Features
 
-This project is a starting point for a Flutter application.
+* **Dual Tracking:** Log work shifts and daily expenses in one place.
+* **Intelligent Categorization:** A custom keyword-based sorting engine that automatically organizes your data.
+* **Vehicle Management:** Dedicated `bike_profile` module to track maintenance and related costs.
+* **Offline First:** Powered by a robust SQLite backend (`pris_vault.db`) for high performance and data privacy.
+* **Dynamic UI:** Clean, modern interface built with Flutter and Dart.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Frontend:** [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
+* **Database:** [SQLite](https://sqlite.org/index.html) (via `sqflite`)
+* **State Management:** Provider / Bloc (Update as per your specific choice)
+* **Version Control:** Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Database Architecture
+
+The application uses a relational schema to ensure data integrity:
+* `shifts`: Stores work timing and earnings.
+* `expenses`: Detailed logs of daily spending.
+* `bike_profile`: Tracks vehicle-specific data and maintenance schedules.
+* `categories`: Customizable tags for the sorting engine.
+
+## 🚀 Getting Started
+
+### Prerequisites
+* Flutter SDK installed
+* Android Studio / VS Code with Flutter extensions
+* Dart 3.x
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Sourish-Chakraborty04/PRIS.git](https://github.com/Sourish-Chakraborty04/PRIS.git)
