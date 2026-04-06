@@ -12,10 +12,10 @@ PRIS is a comprehensive **Personal Finance & Shift Tracking** application built 
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> & <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-* **Database:** <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> (via `sqflite`)
-* **Version Control:** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+* **Frontend:** <img src="https://images.seeklogo.com/logo-png/35/2/flutter-logo-png_seeklogo-354671.png" /> & <img src="https://images.seeklogo.com/logo-png/27/2/dart-logo-png_seeklogo-273023.png" />
+* **Database:** <img src="https://images.seeklogo.com/logo-png/27/1/sqlite-logo-png_seeklogo-273915.png" />
+* **Version Control:** <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-icon-svg-download-png-1175219.png?f=webp&w=128" />
+  <img src="https://www.pngmart.com/files/22/GitHub-PNG-Background-Image.png" />
 
 ## 📂 Database Architecture
 
@@ -24,6 +24,23 @@ The application uses a relational schema to ensure data integrity:
 * `expenses`: Detailed logs of daily spending.
 * `bike_profile`: Tracks vehicle-specific data and maintenance schedules.
 * `categories`: Customizable tags for the sorting engine.
+
+## 📂 Project File Structure
+
+```text
+PRIS/
+├── android/              # Android-specific configurations
+├── ios/                  # iOS-specific configurations
+├── lib/                  # Main project code
+│   ├── database/         # SQLite database handlers & schemas
+│   │   └── db_helper.dart
+│   ├── models/           # Data models (Shifts, Expenses, etc.)
+│   ├── screens/          # App screens (Home, Profile, etc.)
+│   ├── services/         # Keyword sorting engine & logic
+│   └── main.dart         # Entry point of the app
+├── assets/               # Images, fonts, and static data
+├── pubspec.yaml          # Project dependencies & metadata
+└── README.md             # Project documentation
 
 ## 🚀 Getting Started
 
