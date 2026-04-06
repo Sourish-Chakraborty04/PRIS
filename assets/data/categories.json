@@ -1,0 +1,281 @@
+{
+  "categories": [
+
+    {
+      "macro": "Food",
+      "category": "Dairy",
+      "emoji": "🥛",
+      "keywords": [
+        "milk","doodh","curd","dahi","paneer","butter","cheese","ghee","yogurt","lassi","amul"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Grains & Staples",
+      "emoji": "🌾",
+      "keywords": [
+        "rice","basmati","atta","flour","maida","suji","rava","poha","oats","dal","lentils",
+        "rajma","chana","chole","moong","masoor","arhar"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Vegetables",
+      "emoji": "🥦",
+      "keywords": [
+        "vegetable","sabzi","potato","aloo","onion","pyaz","tomato","tamatar","carrot",
+        "cabbage","spinach","palak","capsicum","bhindi","brinjal","baingan","ginger","garlic"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Fruits",
+      "emoji": "🍎",
+      "keywords": [
+        "fruit","apple","banana","kela","mango","aam","orange","santra","grapes","papaya",
+        "pineapple","watermelon","anar","pomegranate"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Instant Food",
+      "emoji": "🍜",
+      "keywords": [
+        "maggi","maggie","yippee","noodles","ramen","pasta","ready meal","cup noodles"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Snacks & Packaged",
+      "emoji": "🍪",
+      "keywords": [
+        "biscuit","cookies","chips","kurkure","namkeen","mixture","lays","doritos",
+        "cracker","snack","toast"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Condiments",
+      "emoji": "🍯",
+      "keywords": [
+        "ketchup","sauce","tomato sauce","soy sauce","chilli sauce","vinegar","mayonnaise",
+        "mustard","pickle","achar"
+      ]
+    },
+
+    {
+      "macro": "Food",
+      "category": "Street Food",
+      "emoji": "🌯",
+      "keywords": [
+        "roll","shawarma","pani puri","golgappa","samosa","kachori","chaat","street food"
+      ]
+    },
+
+    {
+      "macro": "Drink",
+      "category": "Tea Coffee",
+      "emoji": "☕",
+      "keywords": [
+        "chai","tea","coffee","nescafe","bru","latte","cappuccino"
+      ]
+    },
+
+    {
+      "macro": "Drink",
+      "category": "Cold Drinks",
+      "emoji": "🥤",
+      "keywords": [
+        "coke","cola","pepsi","sprite","fanta","soft drink","soda","thums up"
+      ]
+    },
+
+    {
+      "macro": "Drink",
+      "category": "Juice",
+      "emoji": "🧃",
+      "keywords": [
+        "juice","real juice","tropicana","fruit juice","mango drink"
+      ]
+    },
+
+    {
+      "macro": "Personal Care",
+      "category": "Hygiene",
+      "emoji": "🧼",
+      "keywords": [
+        "soap","lifebuoy","dove","lux","body wash","handwash"
+      ]
+    },
+
+    {
+      "macro": "Personal Care",
+      "category": "Dental",
+      "emoji": "🪥",
+      "keywords": [
+        "toothpaste","colgate","pepsodent","toothbrush","oral b"
+      ]
+    },
+
+    {
+      "macro": "Personal Care",
+      "category": "Hair Care",
+      "emoji": "💇",
+      "keywords": [
+        "shampoo","clinic plus","head and shoulders","pantene","conditioner","hair oil"
+      ]
+    },
+
+    {
+      "macro": "Personal Care",
+      "category": "Grooming",
+      "emoji": "🪒",
+      "keywords": [
+        "razor","gillette","shaving cream","trimmer","beard oil","haircut","saloon"
+      ]
+    },
+
+    {
+      "macro": "Household",
+      "category": "Cleaning",
+      "emoji": "🧹",
+      "keywords": [
+        "detergent","surf","rin","washing powder","harpic","phenyl",
+        "floor cleaner","dishwash","vim"
+      ]
+    },
+
+    {
+      "macro": "Household",
+      "category": "Utilities",
+      "emoji": "🏠",
+      "keywords": [
+        "rent","maintenance","house repair","plumber","electrician","servicing","warranty claim","geyser","washing machine","kutchina","chimney","fan","tv"
+      ]
+    },
+
+    {
+      "macro": "Transport",
+      "category": "Cab Ride",
+      "emoji": "🚕",
+      "keywords": [
+        "uber","ola","rapido","taxi","cab","ride","indrive"
+      ]
+    },
+
+    {
+      "macro": "Transport",
+      "category": "Public Transport",
+      "emoji": "🚌",
+      "keywords": [
+        "bus","train","metro","auto","toto","rickshaw"
+      ]
+    },
+
+    {
+      "macro": "Transport",
+      "category": "Fuel",
+      "emoji": "⛽",
+      "keywords": [
+        "petrol","diesel","fuel","cng","service station"
+      ]
+    },
+
+    {
+      "macro": "Bills",
+      "category": "Mobile Recharge",
+      "emoji": "📱",
+      "keywords": [
+        "recharge","topup","airtel","jio","vi","vodafone","datapack"
+      ]
+    },
+
+    {
+      "macro": "Bills",
+      "category": "Internet",
+      "emoji": "📶",
+      "keywords": [
+        "wifi","broadband","internet","fiber"
+      ]
+    },
+
+    {
+      "macro": "Bills",
+      "category": "Electricity",
+      "emoji": "💡",
+      "keywords": [
+        "electricity","power bill","current bill"
+      ]
+    },
+
+    {
+      "macro": "Shopping",
+      "category": "Clothing",
+      "emoji": "👕",
+      "keywords": [
+        "shirt","tshirt","jeans","jacket","clothes","fashion"
+      ]
+    },
+
+    {
+      "macro": "Shopping",
+      "category": "Footwear",
+      "emoji": "👟",
+      "keywords": [
+        "shoes","sneakers","sandals","slippers"
+      ]
+    },
+
+    {
+      "macro": "Shopping",
+      "category": "Electronics",
+      "emoji": "🔌",
+      "keywords": [
+        "mobile","phone","laptop","tablet","charger","earphones","headphones"
+      ]
+    },
+
+    {
+      "macro": "Health",
+      "category": "Medical",
+      "emoji": "💊",
+      "keywords": [
+        "medicine","tablet","capsule","pharmacy","doctor","hospital"
+      ]
+    },
+
+    {
+      "macro": "Fitness",
+      "category": "Gym",
+      "emoji": "🏋️",
+      "keywords": [
+        "gym","fitness","protein","whey","supplement","creatine"
+      ]
+    },
+
+    {
+      "macro": "Entertainment",
+      "category": "Streaming",
+      "emoji": "🎬",
+      "keywords": [
+        "netflix","prime","hotstar","movie","cinema","hoichoi"
+      ]
+    },
+
+    {
+      "macro": "Payments",
+      "category": "UPI",
+      "emoji": "💸",
+      "keywords": [
+        "upi","gpay","google pay","phonepe","paytm"
+      ]
+    }
+
+  ]
+}
