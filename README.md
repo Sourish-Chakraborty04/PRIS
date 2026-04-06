@@ -13,7 +13,7 @@ PRIS is a comprehensive **Personal Finance & Shift Tracking** application built 
 ## 🛠️ Tech Stack
 
 * **Frontend** <img src="https://images.seeklogo.com/logo-png/35/2/flutter-logo-png_seeklogo-354671.png" width="30"/> & <img src="https://images.seeklogo.com/logo-png/27/2/dart-logo-png_seeklogo-273023.png" width="25"/><br>
-* **Database** <img src="https://images.seeklogo.com/logo-png/27/1/sqlite-logo-png_seeklogo-273915.png" width="60"/><br>
+* **Database** <img src="https://assets.stickpng.com/images/58482f85cef1014c0b5e4a84.png" width="60"/><br>
 * **Version Control** <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-icon-svg-download-png-1175219.png?f=webp&w=128" width="30"/> & <img src="https://www.pngmart.com/files/22/GitHub-PNG-Background-Image.png" width="30"/>
 
 ## 📂 Project File Structure
