@@ -58,15 +58,15 @@ flutter run
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-**Fork the Project**
-**Create your Feature Branch**
-**Commit your Changes**
-**Push to the Branch**
-**Open a Pull Request**
+* **Fork the Project** 🍴
+* **Create your Feature Branch** 🪶
+* **Commit your Changes** 🔐
+* **Push to the Branch** 🫸🏽
+* **Open a Pull Request** 👮🏽‍♂️
 
 ### 📄 License
 
-Distributed under the MIT License. See LICENSE for more information.
+You can add new feature to this application and if you create something from it just drop a credit or just reach out to me.
 
 ### ✉️ Contact the Author
 
