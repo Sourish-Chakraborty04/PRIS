@@ -41,7 +41,7 @@ Prerequisites: Ensure you have the Flutter SDK (3.x) and Dart installed.
 Clone the repository:
 
 ```Bash
-git clone [https://github.com/Sourish-Chakraborty04/PRIS.git](https://github.com/Sourish-Chakraborty04/PRIS.git)
+git clone https://github.com/Sourish-Chakraborty04/PRIS.git
 ```
 Install dependencies:
 
@@ -68,9 +68,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See LICENSE for more information.
 
-### ✉️ Contact
+### ✉️ Contact the Author
 
-Sourish Chakraborty - @Sourish-Chakraborty04
+<a href="https://github.com/Sourish-Chakraborty04">Sourish Chakraborty</a>
 
 ### Project Link: https://github.com/Sourish-Chakraborty04/PRIS
 
