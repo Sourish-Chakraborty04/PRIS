@@ -12,11 +12,9 @@ PRIS is a comprehensive **Personal Finance & Shift Tracking** application built 
 
 ## 🛠️ Tech Stack
 
-| Technology | Logo |
-| :--- | :--- |
-| **Frontend** | <img src="https://images.seeklogo.com/logo-png/35/2/flutter-logo-png_seeklogo-354671.png" width="30"/> & <img src="https://images.seeklogo.com/logo-png/27/2/dart-logo-png_seeklogo-273023.png" width="25"/> |
-| **Database** | <img src="https://images.seeklogo.com/logo-png/27/1/sqlite-logo-png_seeklogo-273915.png" width="60"/> |
-| **Version Control** | <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-icon-svg-download-png-1175219.png?f=webp&w=128" width="30"/> & <img src="https://www.pngmart.com/files/22/GitHub-PNG-Background-Image.png" width="30"/> |
+**Frontend** <img src="https://images.seeklogo.com/logo-png/35/2/flutter-logo-png_seeklogo-354671.png" width="30"/> & <img src="https://images.seeklogo.com/logo-png/27/2/dart-logo-png_seeklogo-273023.png" width="25"/>
+**Database** <img src="https://images.seeklogo.com/logo-png/27/1/sqlite-logo-png_seeklogo-273915.png" width="60"/>
+**Version Control** <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-icon-svg-download-png-1175219.png?f=webp&w=128" width="30"/> & <img src="https://www.pngmart.com/files/22/GitHub-PNG-Background-Image.png" width="30"/>
 
 ## 📂 Project File Structure
 
@@ -36,35 +34,7 @@ PRIS/
 └── README.md             # Project documentation
 ```
 
-## 📊 Database Schema
-```text
-erDiagram
-    SHIFTS {
-        int id PK
-        string date
-        float duration
-        float earnings
-    }
-    EXPENSES {
-        int id PK
-        string date
-        string category
-        float amount
-    }
-    BIKE_PROFILE {
-        int id PK
-        string model
-        string service_date
-    }
-    CATEGORIES {
-        int id PK
-        string name
-        string keywords
-    }
-    SHIFTS ||--o{ EXPENSES : "tracks"
-```
-
-## 🚀 How to Use PRIS Locally
+## 🚀 How to Use PRIS Locally(Untill it is published publically)
 
 Prerequisites: Ensure you have the Flutter SDK (3.x) and Dart installed.
 
@@ -88,20 +58,18 @@ flutter run
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-* **Fork the Project**
-
+**Fork the Project**
 **Create your Feature Branch**
-
 **Commit your Changes**
-
 **Push to the Branch**
-
 **Open a Pull Request**
 
 ### 📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 ### ✉️ Contact
+
 Sourish Chakraborty - @Sourish-Chakraborty04
 
 ### Project Link: https://github.com/Sourish-Chakraborty04/PRIS
