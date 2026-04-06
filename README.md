@@ -1,6 +1,6 @@
-# PRIS - Personal Records & Information System 🚀
+# PRIS - Personal Resource IntelliSense 🚀
 
-PRIS is a comprehensive **Personal Finance & Shift Tracking** application built with Flutter. It is designed for individuals who need to manage their daily work shifts alongside their expenses, providing a unified view of income and spending.
+PRIS is a comprehensive **Personal Finance Tracking** application built with Flutter. It is designed for individuals who need to manage their daily work shifts alongside their expenses, providing a unified view of income and spending.
 
 ## 🌟 Key Features
 
